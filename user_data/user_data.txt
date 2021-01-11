@@ -1,0 +1,4 @@
+{
+    "token": "your_token_id",
+    "counter_id": "your_counter_id"
+}
