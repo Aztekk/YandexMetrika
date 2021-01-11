@@ -9,7 +9,7 @@ if __name__ == "__main__":
 
     #  Read token and Yandex Metrika counter ID
 
-    with open('real_user_data\\user_data.txt') as json_file:
+    with open('user_data\\user_data.txt') as json_file:
         data = json.load(json_file)
         TOKEN = data['token']
         COUNTER_ID = data['counter_id']

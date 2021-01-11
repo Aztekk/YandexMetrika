@@ -16,5 +16,7 @@ To check whether the report is processed or not
 <li>
 To download processed report
 </li>
-
 </ol>
+
+# How to start
+Fill user_data.txt with your token and counter id and run yandex_metrika.py
